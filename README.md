@@ -10,4 +10,3 @@ A simple console-based Guessing Number Game written in C programming language.
 - Score system
 - Quit option (-1)
 - Hints (Too low / Too high)
-Enjoy the game
